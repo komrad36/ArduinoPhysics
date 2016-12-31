@@ -1,0 +1,1 @@
+Realtime 2D physics on an Arduino MEGA with 60 fps output to a Sharp memory LCD. Collision detection and resolution. 96x96 monochrome pixel output. Two buttons allow the user to add or remove entities from the screen.
